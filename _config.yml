@@ -18,16 +18,3 @@ collections:
   journal:
     output: true
     permalink: /journal/:year-:month-:day-:title.html
-    
-
-defaults:
-  - scope:
-      path: "projects"
-      type: projects
-    values:
-      layout: default
-  - scope:
-      path: "journal"
-      type: journal
-    values:
-      layout: default
