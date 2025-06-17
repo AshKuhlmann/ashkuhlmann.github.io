@@ -11,3 +11,11 @@ nav_sort: case_insensitive
 aux_links:
   "LinkedIn": "https://www.linkedin.com/in/ash-kuhlmann-970271214/"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title.html
+  journal:
+    output: true
+    permalink: /journal/:year-:month-:day-:title.html
+    
