@@ -1,0 +1,13 @@
+# --- basic ---
+title: "Ash Kuhlmann – IT Journey"
+description: "Projects, certifications, and weekly notes from my path into IT / SysAdmin."
+
+# --- theme ---
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark   # optional
+
+# --- navigation order ---
+nav_sort: case_insensitive
+aux_links:
+  "LinkedIn": "https://www.linkedin.com/in/ash-kuhlmann-970271214/"
+
