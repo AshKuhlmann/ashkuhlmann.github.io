@@ -1,0 +1,86 @@
+{"0": {
+    "doc": "First Week Studying A+",
+    "title": "First Week Studying A+",
+    "content": "Quick recap of objectives 1.0–1.4 … . ",
+    "url": "/journal/2025-6-10-blog-setup.html",
+    
+    "relUrl": "/journal/2025-6-10-blog-setup.html"
+  },"1": {
+    "doc": "About",
+    "title": "My Background",
+    "content": "Career-switcher to IT. ",
+    "url": "/about.html#my-background",
+    
+    "relUrl": "/about.html#my-background"
+  },"2": {
+    "doc": "About",
+    "title": "Goals",
+    "content": ". | 2025: Help Desk → A+ certified | 2026: Junior SysAdmin (Linux‐heavy) | . ",
+    "url": "/about.html#goals",
+    
+    "relUrl": "/about.html#goals"
+  },"3": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/about.html",
+    
+    "relUrl": "/about.html"
+  },"4": {
+    "doc": "Arch Linux VM Setup",
+    "title": "Arch Linux VM Setup",
+    "content": "Goal: Build an Arch VM with XFCE + LightDM to practice system installs. Stack . | VirtualBox 7 | Arch ISO (2025-05-01) | . Steps &amp; screenshots . … . ",
+    "url": "/projects/arch-vm.html",
+    
+    "relUrl": "/projects/arch-vm.html"
+  },"5": {
+    "doc": "Certifications",
+    "title": "Certifications",
+    "content": "[Example, not accurate] . | Status | Certification | Date | . | ✅ | CompTIA A+ 220-1101 | Jun 2025 | . | 🔄 | 220-1102 (scheduled) | Aug 2025 | . | 🟡 | Linux+ (planned) | 2026 | . ",
+    "url": "/certs.html",
+    
+    "relUrl": "/certs.html"
+  },"6": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": ". | Email: you [at] example [dot] com | LinkedIn: https://www.linkedin.com/in/ashkuhlmann/ | GitHub: https://github.com/ashkuhlmann | . ",
+    "url": "/contact.html",
+    
+    "relUrl": "/contact.html"
+  },"7": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": "A list of hands-on builds and labs. ",
+    "url": "/projects/index.html",
+    
+    "relUrl": "/projects/index.html"
+  },"8": {
+    "doc": "Journal",
+    "title": "Journal",
+    "content": "Weekly reflections and study notes. ",
+    "url": "/journal/index.html",
+    
+    "relUrl": "/journal/index.html"
+  },"9": {
+    "doc": "Welcome",
+    "title": "👋 Hi, I’m Ash",
+    "content": "Aspiring Junior SysAdmin documenting projects, certifications, and lessons learned on the way to my first IT role. ",
+    "url": "/#-hi-im-ash",
+    
+    "relUrl": "/#-hi-im-ash"
+  },"10": {
+    "doc": "Welcome",
+    "title": "Recent posts",
+    "content": " ",
+    "url": "/#recent-posts",
+    
+    "relUrl": "/#recent-posts"
+  },"11": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}
