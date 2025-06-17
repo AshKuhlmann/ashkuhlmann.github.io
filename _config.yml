@@ -3,7 +3,7 @@ title: "Ash Kuhlmann – IT Journey"
 description: "Projects, certifications, and weekly notes from my path into IT / SysAdmin."
 
 # --- theme ---
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@main
 color_scheme: dark   # optional
 
 # --- navigation order ---
@@ -18,3 +18,7 @@ collections:
   journal:
     output: true
     permalink: /journal/:year-:month-:day-:title.html
+
+plugins:
+  - jekyll-remote-theme
+      
