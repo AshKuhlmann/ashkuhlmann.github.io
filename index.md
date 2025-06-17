@@ -6,7 +6,7 @@ description: "Recent posts and intro."
 permalink: /
 ---
 
-# 👋 Hi, I’m Ash
+# 👋 Hi there, I’m Ash
 
 _Aspiring Junior SysAdmin documenting projects, certifications, and lessons learned on the way to my first IT role._
 
