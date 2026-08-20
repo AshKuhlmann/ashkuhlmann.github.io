@@ -1,6 +1,6 @@
 # --- basic ---
-title: "Portfolio"
-description: "Projects, certifications, and weekly notes from my path into IT / SysAdmin."
+title: "Ash Kuhlmann"
+description: "My path into offensive security — roadmap, certifications, projects, writeups, and a running learning log."
 
 # --- theme ---
 remote_theme: just-the-docs/just-the-docs@main
@@ -8,8 +8,15 @@ color_scheme: dark   # optional
 
 # --- navigation order ---
 nav_sort: case_insensitive
+heading_anchors: true
 aux_links:
+  "GitHub": "https://github.com/AshKuhlmann"
   "LinkedIn": "https://www.linkedin.com/in/ash-kuhlmann-970271214/"
+aux_links_new_tab: true
+
+# Show the "back to top" and edit niceties
+back_to_top: true
+back_to_top_text: "Back to top"
 
 collections:
   projects:
@@ -18,7 +25,17 @@ collections:
   journal:
     output: true
     permalink: /journal/:year-:month-:day-:title.html
+  writeups:
+    output: true
+    permalink: /writeups/:title.html
 
 plugins:
   - jekyll-remote-theme
 
+# Files/dirs Jekyll should not build. Anything starting with "_" is already
+# ignored automatically — that is why the _TEMPLATE.md files stay unpublished.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

@@ -1,6 +1,14 @@
+---
+title: "Phase 1–2 Schedule"
+parent: Roadmap
+nav_order: 2
+permalink: /roadmap/phase-1-2/
+description: "The concrete week-by-week schedule for Phases 1 and 2."
+---
+
 # Phase 1–2 Week-by-Week Schedule
 
-> Companion to [general-pentesting-roadmap.md](./general-pentesting-roadmap.md). A concrete
+> Companion to the [Full Roadmap]({{ '/roadmap/full/' | relative_url }}). A concrete
 > 28-week schedule covering **Phase 1 (Foundations)** and **Phase 2 (Web mastery)**, tuned for
 > the depth-track targets — **red team / in-house product security / vulnerability research** —
 > and for a starting point of *solid general programming, C / memory / assembly touched but not
@@ -54,7 +62,7 @@ user→kernel path of a syscall; comfortable enough in Linux that the shell is i
 
 | Week | Primary focus | Background habit | Milestone |
 |---|---|---|---|
-| **10** | Stand up the [home lab](./general-pentesting-roadmap.md#7-home-lab): hypervisor, attack box (Arch/Kali), a Linux target, snapshotting discipline. Isolate the network. | PortSwigger Academy continues. | Lab reachable, snapshotted, isolated. |
+| **10** | Stand up the [home lab](/roadmap/full/#7-home-lab): hypervisor, attack box (Arch/Kali), a Linux target, snapshotting discipline. Isolate the network. | PortSwigger Academy continues. | Lab reachable, snapshotted, isolated. |
 | **11** | Build the **Windows Server + AD** starter domain (one DC, one workstation). Automate the build so teardown/rebuild is cheap — you'll break it repeatedly later. | PortSwigger Academy continues. | Domain up; you can rebuild it from a script. |
 | **12** | Consolidation week: finish outstanding pwn.college intro modules, tidy notes, publish a "Phase 1 retro" post. Light HTB/THM starter box to feel end-to-end flow. | — | **Phase 1 retro published; foundations gate cleared.** |
 
@@ -110,7 +118,7 @@ real vulnerability report on a live target; **BSCP** passed.
 
 Phase 3 (Active Directory + OSCP) and Phase 4 (the CS differentiator — fuzzing, reversing,
 code review, first CVE) are described at the phase level in the
-[main roadmap](./general-pentesting-roadmap.md#6-the-pathway-phase-by-phase). Build their
+[main roadmap](/roadmap/full/#6-the-pathway-phase-by-phase). Build their
 week-by-week schedules once Phase 2's Week 28 retro tells you which branch (red team / product sec
 / VR) is pulling hardest — the emphasis differs enough that it's worth deciding on real evidence
 rather than guessing now.
